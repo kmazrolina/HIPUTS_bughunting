@@ -1,5 +1,6 @@
 # MISS2024_Project_Glowczyk_Zrobek
-# Summary of the HiPUTs Multilane Feature in Web Visualization Project 🚗🌐
+Debugging a High Performance Urban Traffic Simulator (HiPUTS) Distributed System 🚗🌐
+Summary of the HiPUTs Multilane Feature in Web Visualization Project 
 
 ## Project Overview
 The goal of the project was to enhance the web visualization capabilities of the HiPUTs simulation by integrating and debugging the multilane feature, making the visualization more useful for debugging purposes and improving the realism of the simulation.
