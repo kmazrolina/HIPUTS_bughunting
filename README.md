@@ -1,4 +1,4 @@
-# MISS2024_Project_Glowczyk_Zrobek
+# High Performance Urban Traffic Simulator (HiPUTS) Bug-hunting
 Debugging a High Performance Urban Traffic Simulator (HiPUTS) Distributed System 🚗🌐
 Summary of the HiPUTs Multilane Feature in Web Visualization Project 
 
