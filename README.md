@@ -1,6 +1,8 @@
-# High Performance Urban Traffic Simulator (HiPUTS) Bug-hunting
+# Documentation of HiPUTS Bug-hunting Project
+
 Debugging a High Performance Urban Traffic Simulator (HiPUTS) Distributed System 🚗🌐
-Summary of the HiPUTs Multilane Feature in Web Visualization Project 
+Contains a summary of the HiPUTs Multilane Feature in Web Visualization Project.
+Project documentation avaliable in [wiki :book:](https://github.com/kmazrolina/MISS2024_Project_Glowczyk_Zrobek/wiki).
 
 ## Project Overview
 The goal of the project was to enhance the web visualization capabilities of the HiPUTs simulation by integrating and debugging the multilane feature, making the visualization more useful for debugging purposes and improving the realism of the simulation.
@@ -88,4 +90,4 @@ Branches:
 - [pre-merged-develop](https://gitlab.ii.agh.edu.pl/g/ncn-scat/HiPUTS/-/commits/pre-merged-develop)
 - [web_visualization_rebase](https://gitlab.ii.agh.edu.pl/g/ncn-scat/HiPUTS/-/commits/web_visualization_rebase)
 
-Project documentation avaliable in [wiki :book:](https://github.com/kmazrolina/MISS2024_Project_Glowczyk_Zrobek/wiki).
+
